@@ -1,2 +1,2 @@
 # APB
-https://alexandr-77.github.io/APB/
+https://alexandr-77.github.io/APB./
